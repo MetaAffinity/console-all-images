@@ -1,3 +1,5 @@
+//metaaffinity.net
+
 var imageUrls = [];
 // Assuming the HAR log is stored in a variable called 'har'
 har.log.entries.forEach(function (entry) {
