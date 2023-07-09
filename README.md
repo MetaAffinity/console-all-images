@@ -10,3 +10,6 @@ with this you can download the images that you can not download via save as opti
 
 ### Simple and Easy way to download all images from a webpage. 
 Give it a star if you like this
+
+
+Visit MetaAffinity.net for more stuff
